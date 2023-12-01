@@ -1,0 +1,5 @@
+The paper discusses the stability of triangular numbers, which are a type of polygonal number. It proves that the set of triangular numbers is infinitely stable as an additive basis. It also shows that among all polygonal numbers, triangular numbers and squares are the only ones that are infinitely stable additive bases. The paper provides proofs for these results and discusses their implications.
+
+The content appears to be a mathematical proof involving triangular and polygonal numbers. It discusses the stability of additive bases and presents several theorems and corollaries related to these numbers. The references cited provide further information on the topic.
+
+The provided text appears to be an address and contact information for a specific institution called "Instituto Federal de Educação, Ciência e Tecnologia de São Paulo" located in Itaquaquecetuba, Brazil. The address, email, and phone number are provided for further communication.
